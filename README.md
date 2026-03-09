@@ -1,4 +1,4 @@
-![Project Banner](banner.png)
+![Project Banner](randomness_edu_image.png)
 
 # 🎯 When Machine Learning Correctly Detects Randomness
 
@@ -352,3 +352,4 @@ This project demonstrates exactly that principle—**knowing when not to build a
 
 **Last Updated:** March 2026  
 **Status:** Complete & Reproducible
+
